@@ -26,7 +26,7 @@ This project involves analyzing patient health data to identify potential heart 
 
 
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](dashboard_heart_disease.png)
 
